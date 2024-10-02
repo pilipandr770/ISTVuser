@@ -45,7 +45,7 @@ seaborn
 pickle
 Установка
 Клонування репозиторію:
-https://github.com/pilipandr770/ISTVuser/
+https://github.com/pilipandr770/ISTVuser/tree/main
 bash
 Копіювати код
 
