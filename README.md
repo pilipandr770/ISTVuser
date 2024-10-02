@@ -45,10 +45,10 @@ seaborn
 pickle
 Установка
 Клонування репозиторію:
-
+https://github.com/pilipandr770/ISTVuser/
 bash
 Копіювати код
-git clone https://github.com/your_username/churn_prediction.git
+
 cd churn_prediction
 Створення віртуального середовища:
 
